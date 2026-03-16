@@ -1,8 +1,8 @@
 ## Correlation-Regression
 
-## Name : INFANT JESUS S
+## Name : LALENTIKA TWISHA M
 
-## Register Number : 212224240058
+## Register Number : 212224220052
 
 ## Aim : 
 
@@ -27,8 +27,8 @@ If y represents the dependent variable and x the independent variable, this rela
 ## Program :
 
 ```
-#Developed by : INFANT JESUS S
-#Register No : 212224240058
+#Developed by : LALENTIKA TWISHA M
+#Register No : 212224220052
 
 import numpy as np
 import math
